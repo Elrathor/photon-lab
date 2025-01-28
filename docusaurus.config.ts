@@ -83,7 +83,7 @@ const config: Config = {
           href: "/about"
         }
       ],
-      copyright: `Photon Lab, Powered by Moormaker and lots of tea.`,
+      copyright: `Photon Lab, Powered by lots of tea.`,
     },
     prism: {
       theme: prismThemes.github,
