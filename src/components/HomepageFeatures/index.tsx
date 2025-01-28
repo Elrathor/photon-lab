@@ -11,32 +11,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Photograph',
+    Svg: require('@site/static/img/camera_with_flash.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Let's take a picture of your project, fix your camara or just find a cool location. Photon Lab is here to help.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Develop',
+    Svg: require('@site/static/img/film_stock.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        No need to build your own darkroom or suite up in a full ABC suit. Here you can develop your shots and feel like Walter White without the drugs.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Print',
+    Svg: require('@site/static/img/picture.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        The final step, print your pictures and hang them on your wall. Or just keep them in a box, we don't judge. Or do we?
       </>
     ),
   },
