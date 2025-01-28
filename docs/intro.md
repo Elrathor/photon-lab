@@ -7,7 +7,7 @@ sidebar_position: 1
 Alright! You want to learn to take analog pictures. You now stand in front of a map for the journey to your first analog picture ahead. 
 
 ## Why?
-While the discussion of the philosophy of digital vs. analog photography needs a deeper discussion than this introduction can provide, it's likely safe to assume, that you have your own reasons to try the analog process. Photography in general is more than... wait, that's for the history section. Let's say: The idea of photography is quite old in the general scope of technology. In a time when more young people want to try this art form and more and more old people, who know about it, leave us, the knowledge of the "old way" of doing photography can be hard to come by. This is the main reason why the **Photon Lab** was created. A single place to get information and do so for free and openly. Let's get started, shall we?
+While the discussion of the philosophy of digital vs. analog photography needs a deeper discussion than this introduction can provide, it's likely safe to assume, that you have your own reasons to try the analog process. Photography in general is more than... wait, that's for the history section. Let's say: The idea of photography is quite old in the general scope of technology. In a time when more young people want to try this art form and more and more old people, who know about it, leave us, the knowledge of the "old way" of doing photography can be hard to come by. This is the main reason why the **Photon Lab** was created. A single place to get information and help and do so for free and openly. Let's get started, shall we?
 
 ## Getting started
 
